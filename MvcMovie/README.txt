@@ -43,3 +43,13 @@ Date system: 2025-05-06 1120 // ISO 8601
 
 23-05-24
 1510
+Added new a SeedData class is created to populate the database with initial data. This is invoked during application startup to ensure the database contains sample entries.
+
+1540
+test the chnages in browser and working fine.
+
+1605
+Use Display name and display type  to improve model display, format dates, and control database precision.
+
+1615
+tested and working.
